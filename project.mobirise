@@ -52,11 +52,11 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/group-128x113_1.png",
-    "mbrsiteDomain": "52rw9stqeq",
+    "mbrsiteDomain": "jpsazo8crs",
     "robotsSwitcher": true,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://www.intext.live",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 20,
@@ -74,7 +74,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1199.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/cp-819x441.png"
       },
       "components": [
         {
