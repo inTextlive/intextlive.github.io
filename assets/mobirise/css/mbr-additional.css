@@ -1027,7 +1027,7 @@ a {
   background-image: linear-gradient(135deg, #e43f3f 10%, #4479d9 100%) !important;
 }
 .cid-sPLysD18ER .mbr-section-title {
-  color: #ff8a8a;
+  color: #000000;
 }
 .cid-sPLysD18ER .mbr-section-subtitle {
   color: #ffffff;
@@ -1156,6 +1156,9 @@ a {
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #ffffff;
   overflow: hidden;
+}
+.cid-sFF3CYc3p7 .media-container-row .mbr-text {
+  color: #000000;
 }
