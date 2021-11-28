@@ -1030,29 +1030,16 @@ a {
   color: #000000;
 }
 .cid-sPLysD18ER .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sPLysD18ER .mbr-text,
 .cid-sPLysD18ER .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
-.cid-sPVh62xxYI {
+.cid-sPLVWM7xjK {
   padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #fafafa;
-}
-.cid-sPVh62xxYI .card-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-sPVh62xxYI .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sPVh62xxYI .mbr-iconfont {
-  font-size: 2rem;
-  color: #6592e6;
-  padding-right: 1.5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
 }
 .cid-sPLoKxyFge {
   padding-top: 4rem;
@@ -1065,7 +1052,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sPLoKxyFge .icon-box {
-  background: #6592e6;
+  background: #000000;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -1089,11 +1076,11 @@ a {
 }
 .cid-sPLVK0CVgs {
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-sPLVK0CVgs .card-wrapper {
-  background: #4479d9;
+  background: #232323;
   border-radius: 4px;
 }
 @media (max-width: 767px) {
@@ -1114,21 +1101,11 @@ a {
 .cid-sPLVK0CVgs .mbr-text,
 .cid-sPLVK0CVgs .mbr-section-btn {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-sPLVK0CVgs .card-title,
 .cid-sPLVK0CVgs .card-box {
-  text-align: left;
-}
-.cid-sPLTTqInTN {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sPLVWM7xjK {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  text-align: center;
 }
 .cid-sPWnIRoOX4 {
   padding-top: 3rem;
@@ -1145,13 +1122,81 @@ a {
 }
 .cid-sPWnIRoOX4 .mbr-iconfont {
   font-size: 2rem;
-  color: #6592e6;
+  color: #000000;
   padding-right: 1.5rem;
 }
 .cid-sPWCilhGGq {
   padding-top: 2rem;
   padding-bottom: 10rem;
   background-color: #ffffff;
+}
+.cid-sQ2PchV3zz {
+  padding-top: 5rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-sQ2PchV3zz .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sQ2PchV3zz .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-sQ2PchV3zz .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-sQ2PchV3zz .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-sQ2PchV3zz .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-sQ2PchV3zz .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-sQ2PchV3zz .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-sQ2PchV3zz .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-sQ2PchV3zz [class^="socicon-"]:before,
+.cid-sQ2PchV3zz [class*=" socicon-"]:before {
+  line-height: 55px;
 }
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
