@@ -1062,6 +1062,22 @@ a {
   color: #000000;
   padding-right: 1.5rem;
 }
+.cid-sQsibfbyxE {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-sQsibfbyxE .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sQsibfbyxE .row {
+  flex-direction: row-reverse;
+}
+.cid-sQsibfbyxE img {
+  width: 100%;
+}
 .cid-sPLoKxyFge {
   padding-top: 4rem;
   padding-bottom: 1rem;
@@ -1243,6 +1259,7 @@ a {
   cursor: pointer;
   transition: all 0.3s ease-in-out;
   border: none !important;
+  border-radius: 0 !important;
 }
 .cid-sQ2PchV3zz .btn-social i {
   top: 0;
@@ -1256,7 +1273,7 @@ a {
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #fafafa;
   overflow: hidden;
 }
 .cid-sFF3CYc3p7 .media-container-row .mbr-text {
