@@ -806,6 +806,11 @@ a {
 .cid-sFF0ciwnEL .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-sFF0ciwnEL .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-sFF0ciwnEL .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1024,7 +1029,7 @@ a {
   }
 }
 .cid-sPLysD18ER {
-  background-image: linear-gradient(158deg, #850c9c 10%, #000000 100%) !important;
+  background-image: linear-gradient(158deg, #3c0048 10%, #000000 100%) !important;
 }
 .cid-sPLysD18ER .mbr-section-title {
   color: #ffffff;
