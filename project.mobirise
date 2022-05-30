@@ -79,7 +79,7 @@
     "versionPublish": "5.6.8",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
