@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Privacy-Policy.html",
+    "currentPage": "Policy.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -4311,7 +4311,7 @@
         }
       ]
     },
-    "Privacy-Policy.html": {
+    "Policy.html": {
       "settings": {
         "title": "Privacy Policy",
         "order": 1,
