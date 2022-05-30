@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -24,7 +24,7 @@
         "display4Size": 1.1,
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
-        "underlinedLinks": true,
+        "underlinedLinks": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
@@ -68,7 +68,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/intext-icone-favori-group-5-75x75.png",
-    "mbrsiteDomain": "dqrr1r4ml9",
+    "mbrsiteDomain": "wqkts3ap5s",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -79,7 +79,7 @@
     "versionPublish": "5.6.8",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
