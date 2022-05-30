@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "design.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -79,7 +79,7 @@
     "versionPublish": "5.6.8",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -2278,7 +2278,7 @@
         }
       ]
     },
-    "page3.html": {
+    "Programming.html": {
       "settings": {
         "title": "We Programme for You - intext.live",
         "order": 3,
@@ -2923,7 +2923,7 @@
         }
       ]
     },
-    "page4.html": {
+    "Copy-write.html": {
       "settings": {
         "title": "We Copy-write for You - intext.live",
         "order": 4,
@@ -3568,7 +3568,7 @@
         }
       ]
     },
-    "page5.html": {
+    "Training.html": {
       "settings": {
         "title": "We Coach You - intext.live",
         "order": 5,
