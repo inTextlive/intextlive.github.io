@@ -3,9 +3,6 @@
 		<loc>https://www.intext.live/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.intext.live/design.html</loc>
-	</url>
-	<url>
 		<loc>https://www.intext.live/Contact.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>https://www.intext.live/Training.html</loc>
+	</url>
+	<url>
+		<loc>https://www.intext.live/Design.html</loc>
 	</url>
 </urlset>
