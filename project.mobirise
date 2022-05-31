@@ -527,7 +527,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#005cb3"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#fafafa"
