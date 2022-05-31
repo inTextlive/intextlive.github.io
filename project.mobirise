@@ -67,8 +67,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/intext-icone-favori-group-5-75x75.png",
-    "mbrsiteDomain": "lvogj6wyjd",
+    "favicon": "@PROJECT_PATH@/assets/images/intext-icone-group-4-75x75.png",
+    "mbrsiteDomain": "qqvcjehqpe",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
