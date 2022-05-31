@@ -5,7 +5,7 @@
       "name": "mobirise5",
       "title": "Mobirise 5",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#232323",
         "secondaryColor": "#bbbbbb",
         "successColor": "#004484",
         "infoColor": "#47b5ed",
@@ -68,7 +68,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/intext-icone-group-4-75x75.png",
-    "mbrsiteDomain": "qqvcjehqpe",
+    "mbrsiteDomain": "lgaliz4jiz",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
