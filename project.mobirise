@@ -83,7 +83,7 @@
     "versionPublish": "5.6.8",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false
   },
   "pages": {
@@ -95,7 +95,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/intext%20live%20-%20write%20content%20that%20convert%20fast-1366x728.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/home%20-%20intext.live-1366x728.png"
       },
       "components": [
         {
