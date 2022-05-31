@@ -3,21 +3,6 @@
 		<loc>https://www.intext.live/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.intext.live/Contact.html</loc>
-	</url>
-	<url>
-		<loc>https://www.intext.live/Programming.html</loc>
-	</url>
-	<url>
-		<loc>https://www.intext.live/Copy-write.html</loc>
-	</url>
-	<url>
-		<loc>https://www.intext.live/Training.html</loc>
-	</url>
-	<url>
-		<loc>https://www.intext.live/Design.html</loc>
-	</url>
-	<url>
 		<loc>https://www.intext.live/policy.html</loc>
 	</url>
 	<url>
@@ -27,6 +12,18 @@
 		<loc>https://www.intext.live/404.html</loc>
 	</url>
 	<url>
+		<loc>https://www.intext.live/contact.html</loc>
+	</url>
+	<url>
 		<loc>https://www.intext.live/design.html</loc>
+	</url>
+	<url>
+		<loc>https://www.intext.live/programming.html</loc>
+	</url>
+	<url>
+		<loc>https://www.intext.live/copy-write.html</loc>
+	</url>
+	<url>
+		<loc>https://www.intext.live/training.html</loc>
 	</url>
 </urlset>
