@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "copy-write.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -83,7 +83,7 @@
     "versionPublish": "5.6.8",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "cookiesAlert": false
   },
   "pages": {
